@@ -5,7 +5,7 @@ namespace OOPAssignment03
     {
         static void Main(string[] args)
         {
-            #region Question01
+            #region Question1
             // (A) Overloading: Same method name, but different parameters in the same class.
             //      Overriding: A child class changes the method of the parent class.
 
